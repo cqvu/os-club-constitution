@@ -45,6 +45,8 @@ Can a member remain in the organization if she/he fails to pay dues?
 
 [Insert information about how often your org will meet here. You may include what, if any, rules there may be about holding meetings.]
 
+We will meet weekly
+
 ```
 How often will your organization meet?
 Will there be a required number of meetings each quarter? Each year?
